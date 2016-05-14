@@ -18,6 +18,7 @@ Your learning journey unfolds:
 <br><br>
 - [Our expectations of you](https://github.com/dev-academy-programme/orientation/tree/master/1-expectations)
 - [Orientation checklist](https://github.com/dev-academy-programme/orientation)
+- [Problem solving](https://github.com/dev-academy-programme/curriculum/blob/master/concepts/problem-solving/README.md)
 
 Go well, ngā mihi...
 
