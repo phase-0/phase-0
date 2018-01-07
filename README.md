@@ -1,4 +1,4 @@
-# Kōkako 2018
+# Phase 0
 
 Kia ora.
 
@@ -21,7 +21,3 @@ Your learning journey unfolds:
 - [Problem solving](https://github.com/dev-academy-programme/curriculum/blob/master/concepts/problem-solving/README.md)
 
 Go well, ngā mihi...
-
-<figure>
-  <img src="http://nzbirdsonline.org.nz/sites/all/files/1200526NI%20Kokako.jpg" alt=""><br>
-</figure>
