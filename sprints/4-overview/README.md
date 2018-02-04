@@ -27,19 +27,15 @@ JavaScript allows you to build apps that handle data, logic, interactivity and a
 
 This sprint, you'll be building a solid foundation of JavaScript and practicing pseudocoding to keep you from getting lost in code syntax!
 
-Number | Name | Rough estimated time (hrs)*
---------|-------------------|----------
-1. | [Linking HTML, CSS and Javascript](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/linking-html-css-js) | 15 mins
-2. | [Problem Solving](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/problem-solving) | 30 mins
-3. | [Pseudocode](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/pseudocode) | 30 mins
-4. | [Reading Documentation](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/reading-documentation) | 15 mins
-5. | Assignments (see below) | 20 hours
+* [Linking HTML, CSS and Javascript](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/linking-html-css-js)
+* [Problem Solving](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/problem-solving)
+*  [Pseudocode](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/pseudocode)
+* [Reading Documentation](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/reading-documentation)
 
 ## Assignments and resources
-Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**
+Find your assignments on the [Phase-0 waffle board](https://waffle.io/phase-0/phase-0) and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/phase-0/phase-0?assigned=**yourGithubUserName**`
 <br>
-You will need to replace 'cohort-year' and 'GitHubUserName', for example:<br> `https://waffle.io/kakapo-2016/kakapo-2016?assigned=anahera`
-In some cases, if you feel confident about the concepts, you can skip straight to the assignments.
+You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/phase-0/phase-0?assigned=harrison-symes`
 
 ## Next steps
 1. Read the concepts and their respective capabilities
@@ -49,7 +45,7 @@ In some cases, if you feel confident about the concepts, you can skip straight t
 
 ## Handing in your work
 - If you find yourself blocked on a task,
-  - Add a comment describing the error / problems you are having with the specific waffle task, and move it to the "Blocked" column
+  - Add a comment describing the error / problems you are having with the specific waffle task.
   - Ask for help on slack in the **code-help-desk**/ your **campus-specific** channel, someone will surely be willing to help you out!
   - Move on to another task if possible, rather than waiting and not achieving anything
 

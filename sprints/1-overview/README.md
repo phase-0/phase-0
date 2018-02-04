@@ -9,13 +9,13 @@
 
 ## Phase 0 overview
 
-You belong to a cohort, and together you will work through 9 _sprints_ - a bundle of core-habits, core-concepts and assignments. Each sprint will have the option to dive into the concepts or go straight to the assignments.
+You belong to a large group of other amazing humans, and together you will work through 9 _sprints_ - a bundle of core-habits, core-concepts and assignments. Each sprint will have the option to dive into the concepts or go straight to the assignments.
 
 If you aren't a heavy reader, skim the concepts and note anything that seems useful. Long paragraphs of information aren't for everyone, so make sure you find a process (or **habit**) that works for you.
 
 Your journey is your own. There are no grades and there is no competition. Give yourself ample opportunity to better your knowledge. Be honest and real with yourself. Be honest and real with us. Dedicate yourself. Commit time. Say no to the immediacy of life and requests that can pull you away from your knowledge building experience and give yourself the best launchpad for your new career and skills.
 
-When times get tough, keep going. Reach out to us and your cohort and you will be supported. There is no shame in not knowing something and there is so much to gain from sharing your experience.
+When times get tough, keep going. Reach out to us and you will be supported. There is no shame in not knowing something and there is so much to gain from sharing your experience.
 
 
 ## Wow.
@@ -56,25 +56,24 @@ Each sprint there will be new concepts. Concepts have a _capability_ section tha
 For this first sprint, the concepts are GitHub and the command line - tools that you will use for the rest of your web developer life. Getting set up with your tools is the first thing any web developer does. We also introduce you briefly to HTML and set up the foundations for a blog on which you will build each sprint.
 
 If you are unfamiliar with a concept, have a look at these lovely resources that help step you through the basics:
-  * [Git/Github Walkthrough](./walkthroughs/git/gitBasics.md)
-  * [HTML Walkthrough](./walkthroughs/html/htmlBasics.md)
-  * [CSS Walkthrough](./walkthroughs/css/cssBasics.md)
 
-| Name | Estimated time (hrs)* |
-| ---- | ---------- |
-| [GitHub Basics](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/github-basics) | 2
-| [The Command Line](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/command-line-basics) | 2
-| [HTML Basics](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/html-basics-1) | 2
-| [CSS Basics](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/css-basics-1) | 2
-| [Reflection](https://github.com/dev-academy-programme/curriculum/tree/master/resources/nt-reflection-ARTICLE) | 30 min
-| [Time and Habits](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/nt-time-management) | 2
-| Assignments (see below) | 5
+* [Git/Github Walkthrough](./walkthroughs/git/gitBasics.md)
+* [HTML Walkthrough](./walkthroughs/html/htmlBasics.md)
+* [CSS Walkthrough](./walkthroughs/css/cssBasics.md)
+
+
+* [GitHub Basics](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/github-basics)
+* [The Command Line](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/command-line-basics)
+* [HTML Basics](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/html-basics-1)
+* [CSS Basics](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/css-basics-1)
+*  [Reflection](https://github.com/dev-academy-programme/curriculum/tree/master/resources/nt-reflection-ARTICLE)
+* [Time and Habits](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/nt-time-management)
 
 
 ## Assignments and resources
-Each sprint you have a number of assignments (tasks) to complete. Assignments are located in your cohort's waffle board and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGithubUserName**
+Each sprint you have a number of assignments (tasks) to complete. Assignments are located on the [Phase-0 waffle board](https://waffle.io/phase-0/phase-0) and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/phase-0/phase-0?assigned=**yourGithubUserName**`
 <br>
-You will need to replace 'cohort-year' and 'GithubUserName', for example:<br> `https://waffle.io/piwakawaka-2016/piwakawaka-2016?assigned=harrison-symes`
+You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/phase-0/phase-0?assigned=harrison-symes`
 
 We provide you with curated material that our teachersme have written, and/or amazing resources we've found on the web. _Don't repeat yourself_ (DRY) is a principle of software development, aimed at reducing repetition of information. We apply software principles to our education model in many regards, including _agile_ course-ware and DRY resources.
 
@@ -96,11 +95,11 @@ As part of the assignments, you will be required to complete a feedback form (pe
 
 ## Handing in your work
 - If you find yourself blocked on a task,
-  - Add a comment describing the error / problems you are having with the specific waffle task, and move it to the "Blocked" column
+  - Add a comment describing the error / problems you are having with the specific waffle task.
   - Ask for help on slack in the **code-help-desk**/ your **campus-specific** channel, someone will surely be willing to help you out!
   - Move on to another task if possible, rather than waiting and not achieving anything
 
-  
+
 - Check off all tasks within the assignments in Waffle.io as you complete them
 - Move each of your assignments to the "Done" column in Waffle.io as you complete them
 - Make sure you post a link to your completed work in the comments of the waffle ticket!

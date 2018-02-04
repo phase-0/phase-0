@@ -3,9 +3,6 @@
 > Tūngia te ururua, kia tupu whakaritorito te tupu o te harakeke<br>
 > *Clear the undergrowth so the new shoots of the flax will grow* <br>  
 
-## Wow.
-New Zealand's very own crowdfunding app, [pledgeme](https://www.pledgeme.co.nz/)
-
 ## Habits
 
 <!-- learn > develop > practice -->
@@ -20,19 +17,15 @@ New Zealand's very own crowdfunding app, [pledgeme](https://www.pledgeme.co.nz/)
 ## Concepts
 This sprint, you'll be learning some design skills to ensure you're building something useful with all your awesome new HTML and CSS skills.
 
-Number | Name | Rough estimated time (hrs)*
---------|-------------------|----------
-1. | [Design](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/design) | 3
-2. | [Frameworks](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/frameworks) | 30 mins
-3. | [Process over product](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/process-over-product) | 15 mins
-4. | [7 rules for creating gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.juh0bpuk3) | 30 mins
-5. | Assignments (see below) | 10
+*  [Design](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/design)
+*  [Frameworks](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/frameworks)
+* [Process over product](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/process-over-product)
+* [7 rules for creating gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.juh0bpuk3)
 
 ## Assignments and resources
-Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**
+Find your assignments on the [Phase-0 waffle board](https://waffle.io/phase-0/phase-0) and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/phase-0/phase-0?assigned=**yourGithubUserName**`
 <br>
-You will need to replace 'cohort-year' and 'GitHubUserName', for example:<br> `https://waffle.io/kakapo-2016/kakapo-2016?assigned=anahera`
-In some cases, if you feel confident about the concepts, you can skip straight to the assignments.
+You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/phase-0/phase-0?assigned=harrison-symes`
 
 ## Next steps
 1. Read the concepts and their respective capabilities
@@ -42,10 +35,9 @@ In some cases, if you feel confident about the concepts, you can skip straight t
 
 ## Handing in your work
 - If you find yourself blocked on a task,
-  - Add a comment describing the error / problems you are having with the specific waffle task, and move it to the "Blocked" column
+  - Add a comment describing the error / problems you are having with the specific waffle task.
   - Ask for help on slack in the **code-help-desk**/ your **campus-specific** channel, someone will surely be willing to help you out!
   - Move on to another task if possible, rather than waiting and not achieving anything
-
 
 - Check off all tasks within the assignments in Waffle.io as you complete them
 - Move each of your assignments to the "Done" column in Waffle.io as you complete them
