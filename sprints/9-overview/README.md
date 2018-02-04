@@ -46,17 +46,11 @@ We aren't introducing new concepts this sprint (unless you count open source!) H
 Keep this sprint light: review and refocus, ready for bootcamp! Revisit concepts you found difficult. Play with them in code. Google them. Discuss them with your cohort.
 
 
-Number | Name | Rough estimated time (hrs)*
---------|-------------------|----------
-1. | Assignments | 10 hours
-
-
 ## Assignments and resources
 
-Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**
-
-You will need to replace 'cohortName-year' and 'GitHubUserName', for example:<br> `https://waffle.io/kakapo-2016/kakapo-2016?assigned=anahera`
-In some cases, if you feel confident about the concepts, you can skip straight to the assignments.
+Find your assignments on the [Phase-0 waffle board](https://waffle.io/phase-0/phase-0) and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/phase-0/phase-0?assigned=**yourGithubUserName**`
+<br>
+You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/phase-0/phase-0?assigned=harrison-symes`
 
 
 ## Next steps
@@ -70,7 +64,7 @@ In some cases, if you feel confident about the concepts, you can skip straight t
 ## Handing in your work
 
 - If you find yourself blocked on a task,
-  - Add a comment describing the error / problems you are having with the specific waffle task, and move it to the "Blocked" column
+  - Add a comment describing the error / problems you are having with the specific waffle task.
   - Ask for help on slack in the **code-help-desk**/ your **campus-specific** channel, someone will surely be willing to help you out!
   - Move on to another task if possible, rather than waiting and not achieving anything
 

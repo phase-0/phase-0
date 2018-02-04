@@ -23,21 +23,13 @@
 
 ## Concepts
 
-Number | Name | Rough estimated time (hrs)*
---------|-------------------|----------
-1. | [Pairing](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/pairing) | 15 mins
-2. | [Scope](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/js-scope) | 15 mins
-3. | [What is an API? In English, please.](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.wczp0u47w) | 15 mins
-4. | [How to Use jQuery’s $.ajax() Function](https://www.sitepoint.com/use-jquerys-ajax-function/) | 30 mins
-5. | [jQuery Ajax Tutorial #1 - Using AJAX & API's](https://www.youtube.com/watch?v=fEYx8dQr_cQ) (YouTube) | 15 mins
-6. | Assignments (see below) | 15 hours
-
+* [Pairing](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/pairing)
+*  [Scope](https://github.com/dev-academy-programme/curriculum/tree/master/concepts/js-scope)
 
 ## Assignments and resources
-Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**
+Find your assignments on the [Phase-0 waffle board](https://waffle.io/phase-0/phase-0) and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/phase-0/phase-0?assigned=**yourGithubUserName**`
 <br>
-You will need to replace 'cohort-year' and 'GitHubUserName', for example:<br> `https://waffle.io/kakapo-2016/kakapo-2016?assigned=anahera`
-In some cases, if you feel confident about the concepts, you can skip straight to the assignments.
+You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/phase-0/phase-0?assigned=harrison-symes`
 
 ## Next steps
 1. Read the concepts and their respective capabilities
@@ -47,7 +39,7 @@ In some cases, if you feel confident about the concepts, you can skip straight t
 
 ## Handing in your work
 - If you find yourself blocked on a task,
-  - Add a comment describing the error / problems you are having with the specific waffle task, and move it to the "Blocked" column
+  - Add a comment describing the error / problems you are having with the specific waffle task.
   - Ask for help on slack in the **code-help-desk**/ your **campus-specific** channel, someone will surely be willing to help you out!
   - Move on to another task if possible, rather than waiting and not achieving anything
 
