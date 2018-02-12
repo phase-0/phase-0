@@ -12,5 +12,4 @@ myself for this one. <br><br>
  Java material until I feel like I have a really good handle on it,
  because at the moment I don't.<br><br>
  What can I improve on next sprint?<br><br>
- Considering I read ahead without intending to, I guess I should take more care to
- read instructions more carefully!
+ Considering I read ahead without intending to, I guess I should take more care to read instructions more carefully!
