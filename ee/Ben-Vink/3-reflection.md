@@ -1,4 +1,0 @@
- What did I do well this week?
- I thought I did well in finally recreating my entire website from scratch, albiet with a lot of help. everyday, my coding ability improves and I find out more and more about the capabilities of HTML and CSS. CSS is still confusing, but the more I read and sleep on it, the easier it gets. I also uncovered a term in coding called rubber duck. developers use a rubber duck, and they explain point for point what they did until they're able to uncover what the problem is in their code.
- What could I have done to improve?
- following instructions, and focusing on process over product. I found I wasted a ton of time on developing my website, instead of working through the boilerplate frame worl.
