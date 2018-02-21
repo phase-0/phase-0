@@ -14,6 +14,8 @@ I think I struggled with the timeboxing. When I set aside an hour for reading I 
 
 I felt like I rushed in general a bit at the start, out of feeling uncertain what to do and how to do it.
 
+I also went through the sprint quite quickly, this isn't a problem in itself but throughout phase0 if I find myself mastering something quickly I want to explore it more deeply, make my own elaborations to the learning and include this in the timesheet.
+
 What can I improve on next sprint?
 
 More connection with the phase 0 group! I want to be working on my stuff more in tandem and bounce of people more. It makes sense this early on that I don't have that connectionwell developed yet, I can certainly continue to grow it next sprint.
