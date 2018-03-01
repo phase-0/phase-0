@@ -1,3 +1,5 @@
-﻿Client,Project,Registered time,Billable time,Amount ()
-,learn web dev,01:49:06,,
-,,00:03:04,,
+﻿User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount ()
+Rous6026nz,rous6026nz@gmail.com,,learn web dev,,"Git/Github Walkthrough, HTML Walkthrough, CSS Walkthrough,  GitHub Basics, The Command Line, Reflection, Time and Habits",No,2018-02-26,22:15:22,2018-02-26,23:16:00,01:00:38,,
+Rous6026nz,rous6026nz@gmail.com,,learn web dev,,1.1 Track Time,No,2018-02-26,23:15:09,2018-02-26,23:18:15,00:03:06,,
+Rous6026nz,rous6026nz@gmail.com,,learn web dev,,#840 0.0 Sprint Reminders (Start here),No,2018-02-28,20:40:21,2018-02-28,21:25:43,00:45:22,,
+Rous6026nz,rous6026nz@gmail.com,,learn web dev,,#837 1.2 Commmand Line and GitHub,No,2018-02-28,23:13:00,2018-03-01,00:43:00,01:30:00,,
