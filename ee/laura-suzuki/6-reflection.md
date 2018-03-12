@@ -1,0 +1,1 @@
+life got the better of me this sprint. My head was definitely on life admin rather than phase 0 . However, now that I'm done with work I have a week before bootcamp starts and I feel confident that I can get everything done. A week long Phase0 bootcamp for one... lol
