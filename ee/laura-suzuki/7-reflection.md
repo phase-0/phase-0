@@ -1,0 +1,1 @@
+This sprint was pretty quick!  The FCC stuff was revision for me. The  eloquent JS book I find really cumbersome to read in terms of the language style-I ended up skimming a lot of it. but the exercises were straightforward. next sprint... I am nervous about as it seems a step up from what I've been doing thus far. will see!
