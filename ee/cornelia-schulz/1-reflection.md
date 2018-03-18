@@ -8,4 +8,4 @@ I fumbled around with Toggl quite a bit because I didn't see the little toggle b
 
 What can I improve on next sprint?
 
-My seating habits during study sessions needs to improve. I also need to make sure I take enough time to read through material, sometimes more than once just to ensure things stick.
+My sitting habits during study sessions needs to improve. I also need to make sure I take enough time to read through material, sometimes more than once just to ensure things stick.
