@@ -8,4 +8,4 @@ I got too ahead of myself and tried to add all sorts of fancy features to my fir
 
 What can I improve on next sprint?
 
-Managing my time a bit better - planning out in advacne when my work times will be and estimate how long I should devote to each part of the sprint. Don't obsess over perfection!
+Managing my time a bit better - planning out in advacne when my work times will be and estimate how long I should devote to each part of the sprint. Don't obsess over perfection! Also, not being scared to ask others for help!
