@@ -7,7 +7,7 @@ Also I got quite happy resolving some untackled issues with the CSS of the blog 
 <h2>What didn't I do well this sprint?</h2>
 
 I have been using less meditation as a tool this sprint - I find my focus less sharp and have been prone to distraction. 
-I am found myself giving reason about not 'starting to work' more often than usual. I did find a good motivation back on track with this video, which I find very enticing : <a href='https://www.youtube.com/watch?v=lB6K60mkmho&list=LLbHgwG-0SYTZPTdc9_Bu3Fg&index=1'>Accelerated Learning: How To Get Good at Anything in 20 Hours</a>
+I am found myself giving reason about not 'starting to work' more often than usual. I did find a good motivation back on track with this video, which I find very enticing : <a href='https://youtu.be/lB6K60mkmho'>Accelerated Learning: How To Get Good at Anything in 20 Hours</a>
 
 <h2>What can I improve on next sprint?</h2>
 
