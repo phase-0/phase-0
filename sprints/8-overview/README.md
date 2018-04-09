@@ -25,18 +25,14 @@ Coding gives you the ability to express information in new ways. Data visualisat
 
 We've covered all the concepts you need for bootcamp, and we're happy these have all been exercised in the assignments you've already been given. This sprint you'll be finishing all your assignments, leaving the final sprint 9 free to review and reflect before bootcamp.
 
-Number | Name | Rough estimated time (hrs)*
---------|-------------------|----------
-1. | [Self care](https://github.com/dev-academy-programme/curriculum/tree/master/resources/self-care-ARTICLE/README.md) | 30 min
-2. | [Writing short functions](https://github.com/dev-academy-programme/curriculum/tree/master/resources/js-writing-short-functions-ARTICLE/README.md) | 30 min
-3. | Assignments | 19
+* [Self care](https://github.com/dev-academy-programme/curriculum/tree/master/resources/self-care-ARTICLE/README.md)
+* [Writing short functions](https://github.com/dev-academy-programme/curriculum/tree/master/resources/js-writing-short-functions-ARTICLE/README.md)
 
 
 ## Assignments and resources
-Find your assignments on your cohort's waffle board. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/`**cohort-year**`/`**cohort-year**`?assigned=`**yourGitHubUserName**
+Find your assignments on the [Phase-0 waffle board](https://waffle.io/phase-0/phase-0) and assigned to you. **You must filter by your GitHub user name (see example below)** - find them at<br> `https://waffle.io/phase-0/phase-0?assigned=**yourGithubUserName**`
 <br>
-You will need to replace 'cohort-year' and 'GitHubUserName', for example:<br> `https://waffle.io/kakapo-2016/kakapo-2016?assigned=anahera`
-In some cases, if you feel confident about the concepts, you can skip straight to the assignments.
+You will need to replace 'GithubUserName', for example:<br> `https://waffle.io/phase-0/phase-0?assigned=harrison-symes`
 
 ## Next steps
 1. Read the concepts and their respective capabilities
@@ -46,7 +42,7 @@ In some cases, if you feel confident about the concepts, you can skip straight t
 
 ## Handing in your work
 - If you find yourself blocked on a task,
-  - Add a comment describing the error / problems you are having with the specific waffle task, and move it to the "Blocked" column
+  - Add a comment describing the error / problems you are having with the specific waffle task.
   - Ask for help on slack in the **code-help-desk**/ your **campus-specific** channel, someone will surely be willing to help you out!
   - Move on to another task if possible, rather than waiting and not achieving anything
 

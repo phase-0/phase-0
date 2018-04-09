@@ -18,9 +18,9 @@
 
 ![Html Setup](images/htmlSetup.png)
 
-* Finally, open up your files in atom by running `atom .` This will open your whole directory in atom, so you can view and edit your two files
+* Finally, open up your files in Visual Studio Code by running `code .` This will open your whole directory in VS Code, so you can view and edit your two files
 
-![Open In Atom](images/OpenInAtom.png)
+![Open In VS Code](images/OpenInAtom.png)
 
 ### Html Template
 
@@ -59,7 +59,7 @@
 
 ### Linking between pages
 
-* In your **index.html** file on atom, we want to create a link that redirects to your second web page
+* In your **index.html** file on Visual Studio, we want to create a link that redirects to your second web page
 * Html links are done using `<a>` tags. These are how hyperlinks, which you have seen on every website ever, are made.
   * The text between the `<a>` tags is what will be displayed to click on as the link, so pick something that makes sense, like `Hey, check out my other page!`
 * You need to give an attritube to the opening `<a>` tag that tells the link where it will link to. The attribute name is `href`, and it should be equal to the file path of your second page.
