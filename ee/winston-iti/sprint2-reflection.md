@@ -2,7 +2,7 @@
 
  What did I do well this sprint?
 
- I enjoyed what I had done so far. Sprint-1 was a c but I do feel my previous abilities peaked once I had to learn HTML and CSS, which I found was a good experience. The making of grids and boxes gave me some insight, so I enjoyed the process.
+ I enjoyed what I had done so far. Sprint-1 was cruisy but I do feel my previous abilities peaked once I had to learn HTML properly and CSS for the first time, which I found was a good experience. The making of grids and boxes gave me some insight, so I enjoyed the process.
 
  What didn't I do well this sprint?
 
