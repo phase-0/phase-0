@@ -12,4 +12,4 @@
 
  What can I improve on next sprint? 
 
- Indentation could've been improved in the code. I experimented with other formats before it came to the final code.
+ Indentation could've been improved in the code. I experimented with other formats before it came to the final code for the HTML CSS DOM pages.
