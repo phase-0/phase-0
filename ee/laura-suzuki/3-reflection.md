@@ -1,1 +1,0 @@
-This sprint I think I was good at keeping process over product in mind. However, I wasn't good at my time management - as I mentioned in my check in I think I procrastinated on this sprint because front end dev isn't my fav. Next sprint I could be better at getting on with the things that I find frustrating as well as the things I feel more accomplished in. 
