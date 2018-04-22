@@ -10,6 +10,3 @@ I failed to fully appreciate the video content as I knew a lot of the informatio
 What can I improve on next sprint?
 
 Try to slow down and soak in as much as I can to fully immerse myself.
-
-
-
