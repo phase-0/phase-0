@@ -6,5 +6,7 @@
 
     I didn't do well in the following up of my progress with the rest of the phase 0 group. I need to make sure I'm documenting where I'm at with my workload and that everyone knows what I'm having issues with when it comes to the code I write.
 
-3   I will make sure that I am posting my status to the group. I'll     make sure that I am talking to the group about any issues or
+3   What can I improve on next sprint?
+    
+    I will make sure that I am posting my status to the group. I'll make sure that I am talking to the group about any issues or
     queries that I have.
