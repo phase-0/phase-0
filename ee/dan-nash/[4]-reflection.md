@@ -1,0 +1,1 @@
+I think I did well in this sprint considering the amount of new material to take in, I used my time well and practised mindfulness alongside. I found myself getting easily flustered and frustrated with some of the harder Javascript concepts and I aim to be more paitent and focused in the next sprint. 
