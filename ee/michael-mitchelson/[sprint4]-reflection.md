@@ -1,0 +1,6 @@
+What did I do well this sprint?
+I kept a good pace in completing the javascript excercises that were set out. I made sure I knew what each of the questions was asking and if I wasn't sure, I researched what the question was asking instead of going to the question help area (unless really necessary) In order to find out what the answer was. I made notes about the different aspects of javascript and how best to implement some of the features that comes with the code.
+What did I not do well this sprint?
+I need to make sure I'm dedicating more time to my mindfullness lessons. I sometimes forget to make sure I'm setting time aside to recollect myself after long periods of working. I need to make sure the area I'm putting my answers to the blog questions is kept tidy, and maybe dedicate myself some time to cleaning up my code a bit (including comments)
+What can I improve on next sprint?
+Definitely the mindfulness aspect. I will try to make sure at the end of the day I can set aside some time to practice my breathing skills. I feel my consentration levels are good, but it will definitely help in exiting and re-entering consentration after taking a break from working on the sprints.
