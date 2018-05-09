@@ -1,6 +1,6 @@
  What did I do well this sprint?
     
-    This sprint I maintained my pace and have been prioritising my phase 0 work. I managed to attend a phase 0 check-in today so on track for the once-per-fortnight expectation.
+    This sprint I maintained my pace and have been prioritising my phase 0 work. I managed to attend a phase 0 check-in today, so I'm on track for the once-per-fortnight expectation.
 
  What didn't I do well this sprint?
 
