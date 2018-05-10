@@ -1,7 +1,7 @@
 What did I do well this sprint?
 
 
-i persistently worked through problems, to get them working, eg the command line.
+I persistently worked through problems, to get them working, eg the command line.
 
 
 

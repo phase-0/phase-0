@@ -16,8 +16,6 @@ Your learning journey unfolds:
 - [Sprint 2 overview](/sprints/2-overview) :tada:
 - [Sprint 1 overview](/sprints/1-overview) :seedling:
 <br><br>
-- [Our expectations of you](https://github.com/dev-academy-programme/orientation/tree/master/expectations)
-- [Orientation checklist](https://github.com/dev-academy-programme/orientation)
-- [Problem solving](https://github.com/dev-academy-programme/curriculum/blob/master/concepts/problem-solving/README.md)
+
 
 Go well, ngā mihi...
