@@ -5,4 +5,4 @@ I felt really motivated in this Sprint, I felt as though I was understanding mor
 Still getting used to formating Javascript functions, arrays, loops etc and finding my little mistakes. A lot of these skills will improve as I keep moving on.
 
  What can I improve on next sprint?
- This has probably been my best performance in a sprint for a while. Just not rushing but also not wasting time, making sure I understand everything I'm doing.
+ This has probably been my best performance in a sprint for a while. Just not rushing but also not wasting time, making sure I understand everything I'm doing
