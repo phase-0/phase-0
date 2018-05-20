@@ -1,0 +1,8 @@
+What did I do well this sprint?
+I believe I managed the code I was writing to a high standard. I made sure to go over any techniques that I felt I was not 100 percent grasping, until I understood it. I made sure I used different means of sorting out the issues I had in my code, and realised that using pseudocode is extremely handy in scenarios where you have a vague idea of what you want to do but need a path to do so. I dedicated more time to the cultural readings and practices.
+
+What did I not do well this sprint?
+I faltered a bit when it came to the coding aspect. I feel I relied too heavily on finding information outside of the excercise instead of practicing good debugging techniques. I ended up googling quite a bit, and though I didn't c/v anything I definitely took the concepts that they had. I was close to running out of time for the excercises, I thought I would have done a bit better than I had but I got stuck on some of the ideas of passing functions to other functions, and the arrow functions took me a while to grasp. I feel with some of the excercises I ended up doing them in the way that wasn't intended.
+
+What could I do better next sprint?
+Making sure you're leaving time at the start of the sprint to understand everything that's going to be used in the sprint ahead. Making sure that you aren't relying too heavily on outside info when it comes to learning. Making sure the code I write follows the expected means of solving the issue.
