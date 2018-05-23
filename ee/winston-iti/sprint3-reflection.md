@@ -6,7 +6,7 @@ I think I did okay brushing up on my coding fundamentals with the use of FreeCod
 
 What didn't I do well this sprint?
 
-I think my time management slipped for a week, and hadn't done much study during that time. I let procrastination get to me for a but, and ended up focusing on some of my other hobbies.
+I think my time management slipped for a week, and hadn't done much study during that time. I let procrastination get to me for a bit, and ended up focusing on some of my other hobbies.
 
 What can I improve on next sprint?
 
