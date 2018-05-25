@@ -1,0 +1,9 @@
+What did I do well through my nine sprints in Phase 0?
+I learn't a lot. From things as smaller as finding out what a code editior is all the way to for loops and functions. I enjoyed reading through the Search Inside Yourself book. I find my self doing little things out of the book but I could do more. I finished the work in front of me even if I have a feeling I could have spent more time on a few things. I think I reviewed well after taking time off and didn't forget to much. Working hard on the the little things early meant the basics are a little easier to understand. Eventually I started timeboxing pretty well and can workout when to cut and move on.
+
+What could I have done to improve through my nine sprints in Phase 0?
+I could have been more consistent. I tried to originally start the bootcamp while working full time which I found hard. I got married in the middle which lead to some down time. Looking back I would have taken the 18 weeks off and gone from there. I think I could have kept meditating. I think that was really benefically. Find the right new spot in my life is key. I wish I took a few more notes. Starting out I was forever taking notes and scheduling but as the phase 0 went on I got worse and worse. Time constrainsts maybe.
+
+
+What learnings and habits have I developed that will help me in Bootcamp?
+The last 3 weeks I have enjoyed the working full days in in preperation. This week spending a lot of time in the space has helped me start to get into a rythm. I think the terminal inputs I know and the notes I have will work well. Same with github. I don't think I am the strongest coder but the understanding I have of the code should help. Working through some harder code with help may do the same. 
