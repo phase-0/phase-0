@@ -1,2 +1,0 @@
-I loved this sprint, I had such a sense of relief from getting my head around recursion, scope and the array actions. I have heard from reading books on coding that it is common to have a feeling like giving up when learning and I felt this for sure, but after finally getting comfortable with the basic concepts I feel really excited to keep going.
-It looks like the next sprint is a really difficult one, so I will have to use what I have learnt so far not only technically but in terms of stress management and mindfullness to pull through.

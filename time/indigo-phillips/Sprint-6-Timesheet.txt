@@ -1,3 +1,0 @@
-"Client	Project	Registered time	Billable time	Amount ()"	
-"	Sprint6		"	3:29:01
-"	Sprint 6			"	16:00:52

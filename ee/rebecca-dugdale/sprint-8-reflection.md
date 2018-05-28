@@ -1,8 +1,0 @@
-What did I do well this sprint?<br><br>
-I paced myself and I took regular breaks because at the beginning of completing the javascript, I got completely lost.  I felt like I didn't know where to begin and everything that I tried didn't work the way I wanted it to.  I began to think that I had been too ambitious with all my plans for my calculator and I had to reassess what I wanted it to be able to do.  I was happy that I took breaks away from it and just accepted that this sprint was going to take me longer than the others and just went back over my notes and material, read different resources and basically gave myself plenty of time to think about the problem away from the screen.  After all of that, something just clicked and I was able to work out why I was having so much trouble and fix the problem which was very satisfying.
-<br><br>
- What didn't I do well this sprint?<br><br>
-I didn't do very well with my self talk when I was struggling.  I had a major, I don't think I can do this, I'm obviously not connecting with the material as much as I thought I'm never going to get this moment.....or moments.  I wasn't happy with the pity party that I got into and although I employed some strategies to get myself out of the funk, I'm not happy that I gave up on it so easily.
- <br><br>
- What can I improve on next sprint?<br><br>
- Accepting the process is more important than the product and that even though I didn't achieve everything I wanted to at the beginning, I learnt a lot and I can always go back and rejig things as I grow in understanding.  Plus I'm going to have some extra time to do some more learning anyway!
