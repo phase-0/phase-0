@@ -19,4 +19,4 @@ Maybe I focused a bit too much on the responsiveness of the site between mobile 
 What can I improve on next sprint?
 
 
-The big old enemy time. Making notes on key points in any videos, so that it cuts down on time later on would help with time. Looking for the easiest way to update my links with javascript would also help.     
+The big old enemy time. Interpreting javascript as quickly as I can. Looking for the easiest and quickest way to update my links with javascript would also help.     
