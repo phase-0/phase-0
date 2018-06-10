@@ -13,3 +13,4 @@ In specific controlling the Master Branch & other branches in Git and GitHub.
 What can I improve on next sprint?
 Use the techniques discussed in the first chapter of the book 'Search Inside Yourself'.
 
+
