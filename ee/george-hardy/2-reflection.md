@@ -1,0 +1,3 @@
+What did I do well this sprint? - I planned out my time better this week and allowed myself a bit of breathing room to shuffle things around where necessary. Finished the sprint at a sensible hour this time :)
+What didn't I do well this sprint? - I would have liked to finish before the weekend. Didn't quite make it but not too stressed. Feeling good about next week.
+What can I improve on next sprint? - Sticking to my routine and minimising distractions. I'll make a start on sprint three tomorrow (Sunday) and then complete before Friday.
