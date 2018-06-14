@@ -1,0 +1,3 @@
+I did well to complete this sprint and especially all the reading. To be honest, it's all a bit of a blur mixed in with the new knowledge in my head. I think I've done better to track my time on this sprint then the last so that's an improvement.
+
+I've definitely stuggled more in this sprint than the first one. I find it very hard to process information through reading, so reading the mindfulness chapter took a LONG time. I think I should try to do a bit better with taking short breaks when trying to learn something difficult because I think if I try to push through without a break my brain fatigues stops taking in information as effectively.
