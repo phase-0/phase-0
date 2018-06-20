@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+﻿User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount ()
+Thall2906,thall2906@gmail.com,,Sprint -2,,Udactity Lesson 1,No,6/8/18,22:00:00,6/9/18,0:30:00,2:30:00,,
+Thall2906,thall2906@gmail.com,,,,Udacity Lesson 2,No,6/9/18,3:00:00,6/9/18,5:30:00,2:30:00,,
+Thall2906,thall2906@gmail.com,,,,Udacity Lesson 3,No,6/9/18,22:15:00,6/10/18,0:15:00,2:00:00,,
+Thall2906,thall2906@gmail.com,,,,Paying off some Technical Debt,No,6/10/18,2:45:00,6/10/18,4:45:00,2:00:00,,
+=======
+﻿User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount ()
+Thall2906,thall2906@gmail.com,,Sprint -2,,Udactity Lesson 1,No,6/8/18,22:00:00,6/9/18,0:30:00,2:30:00,,
+Thall2906,thall2906@gmail.com,,,,Udacity Lesson 2,No,6/9/18,3:00:00,6/9/18,5:30:00,2:30:00,,
+Thall2906,thall2906@gmail.com,,,,Udacity Lesson 3,No,6/9/18,22:15:00,6/10/18,0:15:00,2:00:00,,
+Thall2906,thall2906@gmail.com,,,,Paying off some Technical Debt,No,6/10/18,2:45:00,6/10/18,4:45:00,2:00:00,,
+>>>>>>> eb1aad5c049905895a9083117cfdd6d61e944566
+Thall2906,thall2906@gmail.com,,,,Cultural Blog,No,6/10/18,8:00:00,6/10/18,10:00:00,2:00:00,,
