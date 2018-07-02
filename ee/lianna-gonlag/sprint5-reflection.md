@@ -1,8 +1,18 @@
  What did I do well this sprint?
-I'm pleased with myself for not spending hours and hours trying to understand (or master) every aspect of JavaScript before moving on; looking back at the last few sprints, I can see how it slowed me down. I feel more adrift now than I did at the end of other sprints, but I also have a clearer view of how Phase 0 works, and I don't worry that I'm going to be lost in the next sprint anymore.
+I've been kind to myself with regards to trying my hardest on a problem 
+and knowing when it's time to give up and ask for help. I've been good at 
+pacing myself and keeping to timeboxes, and (mostly) keeping my zen even 
+when I struggle with technicaly problems.
 
  What didn't I do well this sprint?
-It feels very egotistical to say I did nothing wrong, but I can't particularly think of anything either. I always aim to spend more time on sprints every week, but I'm also aware of how I need to pace myself to take proper care of myself, and this fortnight I've had both my birthday and a long, dragged-out cold, so having finished within a fortnight is surprisingly good. 
+For the first time so far I HAD to give up, which bothers me, and on two 
+occasions in close succession, which leads me to worry that I'm not 
+learning it right. 
+Also, maybe not doing this ee reflection thing right? It always seems so 
+similar to what I just wrote in my blog post that I feel like I'm repeating 
+myself.
 
  What can I improve on next sprint?
-I definitely need to maintain both my pace and restraining my tendency to obsess over details and trying to learn everything. I could do with more other-focused mindfulness too, especially at my day job. I find piano playing to be the most relaxing thing I can do (I'm not great at it, but I get in The Zone easily), so if I can alternate between study and piano I may be able to carve out more time before getting worn out for the night.
+I need to continue to balance my reading time with practical excercises so 
+I don't get bogged down in trying to learn everything at once, and I need to 
+become more okay with not being able to solve everything myself.
