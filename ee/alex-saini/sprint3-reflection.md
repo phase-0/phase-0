@@ -8,4 +8,4 @@ I didn't manage my time well for the blogs. I need to work faster but keep the s
 
 What can I improve on next sprint?
 
-Again, time management. If I am to make my bootcamp I need to manage my time really well.
+Again, time management. If I am to make my bootcamp I need to manage my time really well!
