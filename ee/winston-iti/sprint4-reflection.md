@@ -10,3 +10,5 @@ What can I improve on next sprint?
 
 I'd like to complete a sprint in one session, since I've spread most of the work sporadically.
 
+Edit: I initially thought this was a good thing, but decided its best if I focus on the process per study session instead of doing it all in one go. 
+
