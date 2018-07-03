@@ -1,7 +1,7 @@
 What did I do well this sprint?
 
 
-Through my reflection skills, I was able to put down the answers that quickly came to me. This meant that I was able to get through the technical blog quickly and I was happy about this. I also felt that I ended the sprint well by creating code that worked well for the coding assigments.  
+Through my reflection skills, I was able to put down the answers that quickly came to me. This meant that I was able to get through the technical blog quickly and I was happy about this. I also felt that I ended the sprint well, by creating code that worked well for the coding assigments.  
  
 
 
