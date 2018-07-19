@@ -1,0 +1,6 @@
+What did I do well this sprint?
+    This sprint I impressed myself with some of the code I pulled out; I'm still not very confidant with JS and had to really work to get what I was thinking out as code. I did get quite stuck and had to ask to look at someone elses code more than once. I had an insight into my own learning and how there are times I need to look at a working example to move forward fast enough. I have been trying hard to figure things out myself and have been dragging along with my sprints in the meantime. The amount I learned by looking at others code really speed up my learning, something I realise I need to focus on right now.
+What didn't I do well?
+    I got stuck more than once. I still need to learn the correct terms and syntax for JS as I spent a lot of time looking these up.
+What can I do better next time?
+    I am going to try some hard timeboxing and just move ahead when I need. I want to try learning as much as possible in sprint 7 rather than worry about getting things right.

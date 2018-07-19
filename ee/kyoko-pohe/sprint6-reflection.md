@@ -1,0 +1,7 @@
+What did I do well this sprint?
+
+I think I progressed quite well through this sprint. I really enjoyed making my own minesweeper game and told friends about it :) I think I took to the steps quite well and managed to get my game up and running quite effortlessly, though it did take some time.
+
+ What didn't I do well this sprint? What can I improve on next sprint?
+
+ As with most sprints, and an issue I am not happy about, I did not come up with the necessary code straight off the bat. I had to do a bit of googling, and go through old concepts to refresh my mind in terms of what was being asked of me. I would also have loved to get the stretch goals completed to make the minesweeper game a true reflection of my own work, but just feel I dont have the time at the moment to do so. This is however, something I would like to do before bootcamp should the time arise. There were moments I wasn't sure if I was providing the right code, the game was working, however i'm not 100% sure it was in the way the steps had intended or if I was just reading too much into it. One part I did find tough was pushing the game to git pages. I wasn't quite sure as to what I was asked to do, however I always wanted to create a link to my own web page, so this is what I done. Again, I could be reading too much into it but have a feeling I was meant to upload it to it's own web page seperate from my blogs. Either way, I have shared it for all to enjoy, and am happy with this.
