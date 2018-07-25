@@ -1,0 +1,3 @@
+ What did I do well this sprint? Learnt to navigate promptly through command line after lots of practise of getting lost!
+ What didn't I do well this sprint? Caught reading references too long, or spending too long in the workshops which wasted time when I could have been applying myself more actively on the assignments.
+ What can I improve on next sprint? Focus on the assignments to guide and pace myself.  Use the references to assist, but don't get stuck reading too much!!
