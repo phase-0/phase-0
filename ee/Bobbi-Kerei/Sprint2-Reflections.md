@@ -1,6 +1,6 @@
 What did I do well this sprint?
 
-Focus on getting things done in ordered and c areful way. I'm really proud of what i've done this sprint.
+Focus on getting things done in ordered and careful way. I'm really proud of what I've done this sprint.
 
  What didn't I do well this sprint?
 
