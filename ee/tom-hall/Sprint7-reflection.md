@@ -1,6 +1,6 @@
 1) What did I do well this sprint?
 
-Eloquent Javascript Chapter 3 - Functions
+Eloquent Javascript Chapter 3 - Functions & Debugging 
 
 
 2) What didn't I do well this sprint?
