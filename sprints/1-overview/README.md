@@ -79,7 +79,7 @@ We provide you with curated material that our teachersme have written, and/or am
 
 In most cases, if you feel confident about the concepts, you can skip straight to the assignments. **Note however that feeling confident isn't the same as believing you can pass the assignment. Feeling confident is about feeling comfortable with the technology. For example, you could use the technology without using a step by step tutorial, and you could confidently describe to someone the features, uses, and examples of that technology/concept**
 
-**You aren't required to complete one sprint per week**, but we strongly recommend you account for how many weeks you have until your desired bootcamp's starting date, and aim to be finsihed **before** that week.
+**You aren't required to complete one sprint per week**, but we strongly recommend you account for how many weeks you have until your desired bootcamp's starting date, and aim to be finished **before** that week.
 
 **We require 100% of the assignments to be completed by the end of Phase 0.** If you have incomplete assignments, we will likely ask you to roll back into another cohort to finish your assignments before you join a bootcamp. The deeper understanding, skills and habits you will learn during the assignments are essential for both bootcamp and your career as a web developer.
 
