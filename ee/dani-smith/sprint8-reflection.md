@@ -1,0 +1,3 @@
+Sprint 8.... a tough one. I think I should've gone over all of the modules first before starting. I spent the whole sprint with things opened  as I continued to work on them cause  I wasn't happy with the level before submitting them. Perhaps in hindsight I should've been more wiling to let them go as they were and push on through.
+
+I'll definitely have to keep the above in mind going into sprint 9 with limited time but am looking forward to commencing bootcamp for sure!
