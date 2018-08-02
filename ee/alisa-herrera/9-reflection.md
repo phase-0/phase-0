@@ -10,6 +10,20 @@ What learnings and habits have I developed that will help me in Bootcamp?
 
     Strengthened my meditation practice, I have become excellent at prioritising, and good at not getting hung up on small details. 
 
+---
+
+What did I do well this sprint?
+    
+    I prioritised my coursework so that I could get it done and give myself time for review before bootcamp. I also made it to check-in.
+
+What didn't I do well this sprint?
+
+    I didn't give myself as much review time as I was hoping but I'm still happy with the amount of time I have. 
+
+What can I improve on next sprint?
+
+    Continuously chip away at work so that it is always manageable and not overwhelming.
+
     
 
     
