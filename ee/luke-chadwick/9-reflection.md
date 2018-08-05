@@ -1,6 +1,6 @@
 What did I do well this sprint?
-Gained some interesting knowledge writing functions
+Made a cool project that I can use and am proud of the result.
 What didn't I do well this sprint?
-Got quite sick and lost motivation as a result.
+Wish I had more time but I think I'll always have that feelin up until bootcamp begins.
 What can I improve on next sprint?
-More time and dedication, almost there!
+No next sprint, boot camp time.
