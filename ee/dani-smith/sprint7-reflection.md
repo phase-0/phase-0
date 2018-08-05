@@ -1,0 +1,4 @@
+Sprint 7 has definitely taken me a while longer than other sprints. I hit a lot of blocks but managed to keep my frustration levels kind of balanced, but still something that needs work.
+I did have ONE breakthrough with JS, which was good though hopefully I'll become more comfortable with it.
+
+I definitely jumped around tasks a bit more this sprint, as it was difficult, I found this helped to keep me working without getting too frustrated being stuck on one thing and then going back to what I was previously stuck on with fresh eyes helped alot too. I did a little more work on my minesweeper, but I still want to get to a few more things if I have time later on.
