@@ -1,3 +1,0 @@
-Something I did well at was not giving up even after having to get about 6 hours worth of help just to get things up and running. I really was a bit taken aback by all the junk I kept running into but I feel like I'm on a much better roll.
-
-I didn't do terribly well with time management and I could definitely improve when it comes to just putting more time into this but I've gotta make sure I can get enough sleep to function enough to do this stuff. I've been making small improvements, managing around 5 hours a night now rather than 3-4 and have noticed a difference. I'll make sure to carry on trying to improve my sleep hygiene and hopefully insomnia will eventually stop coming for me so hard.

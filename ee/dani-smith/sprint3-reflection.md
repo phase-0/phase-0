@@ -1,0 +1,5 @@
+Sprint 3 has definitely been a challenging one for me. I definitely struggled with grasping the CSS stuff which was hard BUT I persisted while maintaining low stress levels and actually really enjoyed working my way through troubleshooting to get a desired result, which brought a lot of satisfaction.
+
+I have improved my time keeping but that is still a work in progress. I should probably have limited my time on certain tasks but in the end I did managed to keep to the process over product idea.
+
+I'd really like to push myself in the next sprint in terms of time, not hours so much but the days that I take to get them so that will involve putting more hours in per day. Ideally I'd like to knock a day off my sprint time, at the moment, that being 5 working days, I'd like to get that down to 4 days so I can get ahead of schedule and hopefully keep it that way.
