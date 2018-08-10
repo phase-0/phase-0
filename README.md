@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Phase 0
 
 Kia ora.
@@ -20,7 +19,3 @@ Your learning journey unfolds:
 
 
 Go well, ngā mihi...
-=======
-# bkerei.github.io
-EDA Blog
->>>>>>> e36b64872795099885b78c5dafc248fe8edf9769
