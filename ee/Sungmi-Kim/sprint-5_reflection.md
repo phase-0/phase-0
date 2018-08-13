@@ -1,11 +1,11 @@
 ## Sprint5 Reflection
-:smile :dog :sunny
+:smile:
 
 ### What did I do well this sprint?
 <details>
 <summary>Click here</summary>
- I was able to understand smoothly JavaScript code
- It didn't take a long time like Sprint4
+  - I was able to understand smoothly JavaScript code,
+  - It didn't take a long time like Sprint4
 </details>
 
 ### What didn't I do well this sprint?
