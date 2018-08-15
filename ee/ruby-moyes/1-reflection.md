@@ -1,3 +1,5 @@
 1 - In this sprint, I felt like I did well in researching and repeating the commands and code in the exercises. These will transfer over to the other exercises, and I feel like I now have a good base to go from in terms of the resource material and also my own personal knowledge.
+
 2 - I felt like I didn't do well in the problem solving department in regards to my own work. I felt a little guilty about not remembering solutions to problems I repeatedly found myself researching online when I couldn't recall the exact element or command line. I have taken heaps of notes from the online resources that I found helpful, so I started referring to those more.
+
 3 - I can definitely improve on my time management. However, circumstances recently have not really allowed me to sit down and work for as long as I want to (being down South, having to spend time with extended family, not having a constant internet source, not having the ability to work for as long as I want to, not being at home, finishing full-time work). However, I know this will change when I get back home and I start my planned schedule.
