@@ -1,0 +1,3 @@
+In this Sprint I think what I did well was learning how to use the command-line and github. The command-line used to be a bit daunting to me but I begining to feel alot more confident when using it. Github was also new to me, so that took a little time to get used to , but like with the command-line, my confidence and understanding is growing. 
+This is the first sprint, so I could probably do better with my routine and time mangement. I feel I probably rushed the CSS aspect and didnt give it another attention to make my blog look good. This is something I could come back to later though. 
+For the next sprint I can keep improving my knowledge and confidence using the command-line. I would also like to work out a better routine to get more done during the morning. 
