@@ -1,0 +1,3 @@
+What did i do well in this sprint ? To me what i did well was learning to understand code, it is completely new to me so this something i somewhat proud of.
+What didnt i do well in this sprint ? Everything! My time management was poor, habits and workspace was messy, it caused me alot of issues wit pushing and pulling from github as i had old files that were not allowing me to complete assignments.
+What is something i can improve on in the next sprint ? Effort, 100% i need to do less overtime as a tradesmen and put more overtime in on becoming a web developer. Or this is all for nothing.
