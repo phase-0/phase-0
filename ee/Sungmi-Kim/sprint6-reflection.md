@@ -4,7 +4,7 @@ my favorite the markdown time :satisfied::kissing_smiling_eyes:
 ### What did I do well this sprint?
 
 I googled for getting to know more about JavaScript code, \
-Stack flow is my good friend with Sprint 6. \
+Stack flow is my good friend with Sprint 6.
 
 ### What didn't I do well this sprint?
 
