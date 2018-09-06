@@ -1,0 +1,3 @@
+I have a better understanding of how grids work. I had a bit of a block when I first started but I got over it and can see how they work and know how to use it. I understand what frameworks are all about now. I had a bit of a block at the start here. I think it might just have been because it was 'skeleton' that I confused myself intially. 
+Not remembering to use the 'process over product' concept soon enough. Once I got this in my head, I managed to move through the sprint alot easier. I have to remember everything doesnt have to look perfect or beautifully designed as long as I'm learning and understanding more as I progress through the sprint. I need to remember this for the next sprint. 
+keep remembering 'process over product'.
