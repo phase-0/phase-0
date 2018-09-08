@@ -1,5 +1,5 @@
-What did I do well this sprint?
+What did I do well through my nine sprints in Phase 0?
 
-What didn't I do well this sprint?
+What could I have done to improve through my nine sprints in Phase 0?
 
-What can I improve on next sprint?
+What learnings and habits have I developed that will help me in Bootcamp?
