@@ -1,3 +1,3 @@
 I feel like I moved through this sprint quicker than the previous one and I think my understanding of javascript is improiving. 
 I feel like I can understand whats going on with javascript when its explained, but I am still a but unsure on writing code on my own, however it is improving. I don't feel too worried about this at the moment because I can see myself learning and getting better as i progress, I just need some more practise for it all to come together in my head, and stay there. 
-Next sprint I want to keep improving my javascript skills so that I feel more confident with it. 
+Next sprint I want to keep improving my javascript skills so that I feel more confident with it. Keep working with this focus and using time blocks. 
