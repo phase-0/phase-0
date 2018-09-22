@@ -5,7 +5,7 @@
 I got into the technical readings and challenges quickly and nailed through the technical aspects of the sprint in 2-3 days. I also coupled that with reasonably regular meditation.
 
 ## What didn't I do well this sprint?
-I lagged behind / got blocked on the blogs, and I burnt myself out with some very late nights doing the tech assignments.
+I lagged behind / got blocked on the blogs, and I burnt myself out with some very late nights doing the tech assignments.  It's not in the spirit of "reflection" to be doing this way after the sprint and into the next.
 I said to myself I was going to get up early to study, but I've yet to get that pattern sorted.
 
 ## What can I improve on next sprint?
