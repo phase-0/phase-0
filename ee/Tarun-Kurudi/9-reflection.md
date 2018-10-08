@@ -1,0 +1,3 @@
+What did I do well through my nine sprints in Phase 0? I am happy i finished everything in  good amount of time. Im happy i have a good basic knowledge of javacript
+ What could I have done to improve through my nine sprints in Phase 0? gone through it a little slower , not ike a race to finish. I should have really gone through it all slowly to learn everything
+ What learnings and habits have I developed that will help me in Bootcamp? lots of new techniques , relaxing, asking google, taking a break and coming back. staying calm when sometihing doesnt go right.
