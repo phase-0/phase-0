@@ -1,0 +1,2 @@
+I found the eleoquent js challeneges a lot easier this time around. I felt alot less frustrated and found the solutions after a few attempts. In contrast I found the codeacademy challenges more difficult. Thoughout the the sprints the though I have not been a fan of codeacdemy and find the explanations confusing and often taken alot of searching just to understand what the question is asking. 
+I think I have time-boxed my time well in this sprint. 

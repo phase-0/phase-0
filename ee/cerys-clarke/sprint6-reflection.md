@@ -1,0 +1,3 @@
+I liked this sprint like the previous sprint because it fun to see how javascript could make something. It hadn't crossed my mind before that minesweeper could be made with javascript. 
+I initially had some issues with making the board and it took some time and playing around with the code to get the rest of it work. However I am proud that I was able to eventually make it work. I am a bit behind schedule at the moment. So I haven't completed the stretch material for the game. I'm going to have an attempt at that for a break while during to get on top of the other sprints this week. 
+I really need to manage my time well this next week so I get up to speed for bootcamp. I have found blocking out my time useful for this. 
