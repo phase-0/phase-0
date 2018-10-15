@@ -7,6 +7,6 @@ It still took quite a bit of time to go through the excersizes and I was not abl
   What can I improve on next sprint?
 Try and put more time into the self assesment excersizes for the cultural blog and perform meditation for longer periods of time.
 
-
+  
 
 
